@@ -14,6 +14,7 @@
 		B01E4C371C56F85B0086BE67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B01E4C351C56F85B0086BE67 /* LaunchScreen.storyboard */; };
 		B01E4C3F1C56F8C20086BE67 /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01E4C3E1C56F8C20086BE67 /* MoviesViewController.swift */; };
 		B01E4C421C570F3A0086BE67 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01E4C411C570F3A0086BE67 /* MovieCell.swift */; };
+		B01E4C451C57207F0086BE67 /* assignment_1_readme.md in Sources */ = {isa = PBXBuildFile; fileRef = B01E4C441C57207F0086BE67 /* assignment_1_readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		B01E4C381C56F85B0086BE67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B01E4C3E1C56F8C20086BE67 /* MoviesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		B01E4C411C570F3A0086BE67 /* MovieCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		B01E4C441C57207F0086BE67 /* assignment_1_readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = assignment_1_readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 		B01E4C201C56F85A0086BE67 = {
 			isa = PBXGroup;
 			children = (
+				B01E4C441C57207F0086BE67 /* assignment_1_readme.md */,
 				B01E4C2B1C56F85B0086BE67 /* MovieViewer */,
 				B01E4C2A1C56F85B0086BE67 /* Products */,
 				062CCD47CA6970351CA8A050 /* Pods */,
@@ -233,6 +236,7 @@
 				B01E4C2D1C56F85B0086BE67 /* AppDelegate.swift in Sources */,
 				B01E4C3F1C56F8C20086BE67 /* MoviesViewController.swift in Sources */,
 				B01E4C421C570F3A0086BE67 /* MovieCell.swift in Sources */,
+				B01E4C451C57207F0086BE67 /* assignment_1_readme.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
